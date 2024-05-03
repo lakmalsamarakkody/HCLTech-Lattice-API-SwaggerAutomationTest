@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configurations>
+	<AppSettings>
+		<WebDriver>chrome</WebDriver>
+		<WebDriverVersion>119.0.6045.105</WebDriverVersion>
+		<WebDriverHomeUrl>http://10.16.241.11:8082/swagger/ui/index</WebDriverHomeUrl>
+	</AppSettings>
+	<DatabaseSettings>
+		<DataSource>lattice-nonprod.cnqvxfhav9ix.eu-west-1.rds.amazonaws.com</DataSource>
+		<InitialCatalog>CoexFxoDMS_DEV</InitialCatalog>
+		<Username>admin</Username>
+		<Password>123QWEasdzxc</Password>
+	</DatabaseSettings>
+	<ExcelSettings>
+		<InputExcelPath>DEFAULT</InputExcelPath>
+		<ValidationExcelPath>DEFAULT</ValidationExcelPath>
+		<OutputExcelPath>DEFAULT</OutputExcelPath>
+	</ExcelSettings>
+	<ReportSettings>
+		<ExtentReportPath>DEFAULT</ExtentReportPath>
+	</ReportSettings>
+</configurations>
